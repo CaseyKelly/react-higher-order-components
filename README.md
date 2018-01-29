@@ -1,4 +1,5 @@
-# Higher Order Components in React
+#  Secret Setlist
+## Higher Order Components in React
 
 ```
 > npm install
